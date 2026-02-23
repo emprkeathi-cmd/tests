@@ -1,0 +1,8 @@
+{
+  "name": "AI Wire - Neural Gateway",
+  "description": "A modern PWA for n8n integration and neural node management featuring Chat and Calendar functions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
